@@ -1,0 +1,14 @@
+body {
+    background-color: dodgerblue;
+    text-align: center;
+    font-family: monospace;
+}
+
+p {
+    font-size: 30px;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
